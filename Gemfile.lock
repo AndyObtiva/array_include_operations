@@ -38,7 +38,7 @@ GEM
       rake
       rdoc
       semver2
-    json (1.8.6)
+    json (2.6.3)
     jwt (2.4.1)
     mime-types (2.99.3)
     mini_portile2 (2.8.0)
@@ -66,8 +66,7 @@ GEM
     rake-tui (0.2.3)
       tty-prompt
     rchardet (1.8.0)
-    rdoc (3.12.2)
-      json (~> 1.4)
+    rdoc (6.3.1)
     rspec (3.5.0)
       rspec-core (~> 3.5.0)
       rspec-expectations (~> 3.5.0)
@@ -116,7 +115,7 @@ DEPENDENCIES
   jeweler (~> 2.3.9)
   puts_debuggerer (> 0)
   rake-tui (> 0)
-  rdoc (~> 3.12)
+  rdoc (~> 6.3)
   rspec (~> 3.5.0)
   simplecov (~> 0.16.1)
   simplecov-lcov (~> 0.7.0)
